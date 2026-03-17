@@ -67,7 +67,6 @@
 # database.append(["Near", 2, "Detective"])
 # print("----------------------")
 # print("Near added")
-# print(database)
 
 # high_risk=[]
 # for persons in database:
